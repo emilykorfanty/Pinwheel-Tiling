@@ -3,6 +3,9 @@
 #
 # Created by: Emily Rose Korfanty
 # Last updated: 2022-03-05
+#
+# To obtain cairo on Windows, use MSYS2 to install GTK4
+#
 #---------------------------------
 
 import os
